@@ -1,0 +1,19 @@
+{
+  "assets/src/js/extra.js": {
+    "file": "assets/extra-9b0ba130.js",
+    "isEntry": true,
+    "src": "assets/src/js/extra.js"
+  },
+  "assets/src/js/main.css": {
+    "file": "assets/main-4b0681d7.css",
+    "src": "assets/src/js/main.css"
+  },
+  "assets/src/js/main.js": {
+    "css": [
+      "assets/main-4b0681d7.css"
+    ],
+    "file": "assets/main-bc4e9b34.js",
+    "isEntry": true,
+    "src": "assets/src/js/main.js"
+  }
+}
